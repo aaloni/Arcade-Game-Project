@@ -1,6 +1,5 @@
 # Classic Arcade Game
 
-
 ## Instructions
 - To run the game:
 1- You need a browser (Google Chrome Recommended).
