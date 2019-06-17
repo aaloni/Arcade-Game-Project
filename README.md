@@ -11,4 +11,4 @@
 1- Use arrows to avoid the moving bugs.
 2- Cross to the sea to win.
 
-Enjoy!!
+Happy Gaming!
