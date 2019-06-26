@@ -41,7 +41,6 @@ Enemy.prototype.update = function(dt) {
   };
   // Player update
   Player.prototype.update = function (dt) {
-
   };
   Player.prototype.render = function () {
     ctx.drawImage(Resources.get(this.player), this.x, this.y);
@@ -69,7 +68,6 @@ Enemy.prototype.update = function(dt) {
         //Reset location
         this.x = 405;
         this.y = 405;
-
       }, 400);
     };
   };
