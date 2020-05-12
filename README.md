@@ -12,3 +12,5 @@
 2- Cross to the sea to win.
 
 Happy Gaming!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Note: It does not support touch screens. (It will not work on Smart phones)
